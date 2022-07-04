@@ -1,0 +1,23 @@
+<html>
+
+<body>
+
+<h1>All My Items</h1>
+<br>
+{% for obj in Items %}
+<p>{{obj.item}} {{obj.cost}}</p>
+<!--<a href="item/{{obj.id}}">This item</a>--> 
+
+<a href="{% url 'item' my_id=obj.id my_str=obj.item %}" >this2</a>
+<a href="{% url 'update' my_id=obj.id %}" >update</a>
+<a href="{% url 'delete' my_id=obj.id %}" >delete</a>
+
+{% endfor %}
+<br>
+
+<p style ="font-size: 21px; color: red;">{{Error}}</p>
+
+</body>
+
+
+</html>

@@ -1,0 +1,24 @@
+<html>
+
+<body>
+
+    <h1>Update My items</h1>
+<form action="" method="post">
+    {% csrf_token %}
+<input type = "text" id = "email" name="item" value="{{Object.item}}" />
+<br>
+<input type = "text" name="cost" value="{{Object.cost}}" />
+<br>
+<button type="submit" name="update00">Submit</button>
+
+
+</form>
+
+
+
+
+</body>
+
+
+
+</html>
