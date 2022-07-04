@@ -1,0 +1,412 @@
+.con1{
+
+    background-color: #A4A3A3;
+    
+}
+
+.form1{
+
+
+    width: 487px;
+
+}
+
+.login1{
+
+    width: 300px;
+    border: .1px solid rgb(0, 0, 0);
+  border-top: none;
+  margin: auto;
+ 
+}
+
+.login2{
+   
+  min-height: 10px !important;
+    min-width: 300px !important;
+  display: inline-block !important;
+  border: .1px solid rgb(0, 0, 0);
+  border-bottom: none;
+  font-size: 15px;
+
+}
+
+.mycustombtn{
+    
+    width: 300px;
+    height: 55px;
+    font-size: 25px;
+    background-color: #2B20AE;
+}
+
+.logo{
+
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.panelhead{
+
+    font-size: 28px;
+    font-weight: bold;
+    color: #2B20AE;
+}
+
+.forgot{
+
+    font-size: 14px;
+    color: #3A41C8;
+}
+
+.register{
+    font-size: 14px;
+    color: #3A41C8;
+
+}
+.register1{
+    font-size: 14px;
+    color: black;
+
+}
+
+.sidenav {
+  height: 100%;
+  width: 20%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #314AC4;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.unselectNav {
+ 
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+  display: block;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+
+.sidenav a:hover {
+  color: #01274B;
+  background-color: #A0BEEB;
+  text-decoration: none;
+}
+
+.sidenav a:hover .navLogo{
+
+  filter: invert(11%) sepia(26%) saturate(5060%) hue-rotate(192deg) brightness(95%) contrast(99%);
+
+}
+
+.main {
+  margin-left: 20%;
+}
+
+body::-webkit-scrollbar {
+  width: 16px;
+ 
+  
+}
+
+body::-webkit-scrollbar-track {
+  background: transparent; 
+}
+
+body::-webkit-scrollbar-thumb {
+  background: black; 
+  border-radius: 10px;
+  border: 4px solid transparent;
+  background-clip: content-box;
+}
+body::-webkit-scrollbar-thumb:hover {
+  background: rgb(63, 63, 64); 
+  border: 4px solid transparent;
+  background-clip: content-box;
+}
+
+
+.navTitle{
+  position: relative;
+  color: white;
+  font-size: 25px;
+}
+
+.navLogo{
+
+  filter: brightness(0) invert(1);
+
+}
+
+.navLogo2{
+  filter: invert(11%) sepia(26%) saturate(5060%) hue-rotate(192deg) brightness(95%) contrast(99%);
+
+}
+
+.selectNav{
+
+  text-decoration: none;
+  font-size: 20px;
+  color: #01274B;
+  background-color: #A0BEEB;
+  display: block;
+  padding-bottom: 5px;
+  padding-top: 5px;
+
+}
+
+.register01{
+
+  width: 368px;
+  border: .1px solid rgb(0, 0, 0);
+border-top: none;
+margin: auto;
+
+}
+
+.register2{
+ 
+min-height: 10px !important;
+  min-width: 368px !important;
+display: inline-block !important;
+border: .1px solid rgb(0, 0, 0);
+border-bottom: none;
+font-size: 15px;
+
+}
+
+.form2{
+
+  margin-left: 38px;
+  margin-right: 38px;
+}
+.styleCreate{
+  color: #2B20AE;
+  font-weight: 500;
+  
+}
+
+.clue{
+  font-size: 13px;
+    color: #736A6A;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+.code{
+
+  width: 37px;
+  height: 52px;
+  font-size: 19px;
+  border: 0;
+  outline: 0;
+  background: transparent;
+  border-bottom: 1px solid black;
+
+}
+.space1{
+  display: block;
+            margin-bottom: -10px;
+}
+.space2{
+  display: block;
+            margin-bottom: 4px;
+}
+.space3{
+  display: block;
+            margin-bottom: 15px;
+}
+
+.space4{
+  display: block;
+  margin-bottom: 18px;
+}
+
+.resendcustom{
+
+  font-size: 14px;
+  color: #736A6A;
+  background-color: white;
+  border-style: none;
+
+}
+.resendcustom:hover{
+
+  text-decoration: underline;
+  text-decoration-color: #005BB0;
+  color: #005BB0;
+}
+
+.changeDevice{
+
+  font-size: 20px;
+  color: #266DDC;
+
+}
+
+.time{
+
+  color: red;
+}
+
+.openEye{
+  position: absolute;
+  right: 60px;
+  cursor: pointer;
+  top: 40%;
+  transform: translate(0,-50%);
+  font-size: 30px;
+
+}
+
+.openEye2{
+  position: absolute;
+  right: 50px;
+  cursor: pointer;
+  top: 75%;
+  transform: translate(0,-50%);
+  font-size: 30px;
+
+}
+
+.openEye02{
+  position: absolute;
+  right: 50px;
+  cursor: pointer;
+  top: 45%;
+  transform: translate(0,-50%);
+  font-size: 30px;
+
+}
+
+#progressPass{
+  position: absolute;
+  top: 85px;
+  left: 30px;
+  height: 8px;
+  background-color: #d8d8d8;
+  width: 368px;
+  border-radius: none;
+
+}
+
+#progressPass::before{
+  content: '';
+  display: block;
+  height: 100%;
+  border-radius: none;
+  transition: 0.8s all linear;
+  
+}
+
+#progressPass.Weak::before{
+  
+  background-color: #8b1414;
+width: 73.6px;
+
+}
+
+
+#progressPass.Weak.Ok::before{
+ 
+  background-color: #d17018;
+width: 147.2px;
+
+}
+
+#progressPass.Weak.Ok.Good::before{
+ 
+  background-color: #ffcf30;
+width: 220.8px;
+
+}
+
+#progressPass.Weak.Ok.Good.SlightStrong::before{
+  
+  background-color: #aad000;
+width: 294.4px;
+
+}
+
+#progressPass.Weak.Ok.Good.SlightStrong.Strong::before{
+ 
+  background-color: #08cb34;
+width: 368px;
+
+}
+
+.openEye2Err{
+  position: absolute;
+  right: 50px;
+  cursor: pointer;
+  top: 38%;
+  transform: translate(0,-50%);
+  font-size: 30px;
+
+}
+
+.openEye2Err2{
+  position: absolute;
+  right: 50px;
+  cursor: pointer;
+  top: 55%;
+  transform: translate(0,-50%);
+  font-size: 30px;
+
+}
+.openEye2Err3{
+  position: absolute;
+  right: 50px;
+  cursor: pointer;
+  top: 70%;
+  transform: translate(0,-50%);
+  font-size: 30px;
+
+}
+
+.openEye2Err003{
+  position: absolute;
+  right: 50px;
+  cursor: pointer;
+  top: 55%;
+  transform: translate(0,-50%);
+  font-size: 30px;
+
+}
+
+
+.strength{
+
+  color: black;
+  outline: none;
+  margin-top: -15px;
+  border-color: transparent;
+  border: transparent;
+  background-color: transparent;
+}
+
+.strength2{
+
+  color: black;
+}
+
+.stylePass{
+
+  color: blue;
+}
+

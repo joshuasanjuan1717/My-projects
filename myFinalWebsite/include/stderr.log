@@ -1,0 +1,45 @@
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+BrokenPipeError: [Errno 32] Broken pipe
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'selenium-webdriver'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home2/packetl1/public_html/include/app.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'selenium-webdriver'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home2/packetl1/public_html/include/app.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+(node:2682488) UnhandledPromiseRejectionWarning: Error: The geckodriver executable could not be found on the current PATH. Please download the latest version from https://github.com/mozilla/geckodriver/releases/ and ensure it can be found on your PATH.
+    at findGeckoDriver (/home2/packetl1/nodevenv/public_html/include/10/lib/node_modules/selenium-webdriver/firefox.js:463:11)
+    at new ServiceBuilder (/home2/packetl1/nodevenv/public_html/include/10/lib/node_modules/selenium-webdriver/firefox.js:556:22)
+    at Function.createSession (/home2/packetl1/nodevenv/public_html/include/10/lib/node_modules/selenium-webdriver/firefox.js:612:21)
+    at createDriver (/home2/packetl1/nodevenv/public_html/include/10/lib/node_modules/selenium-webdriver/index.js:147:33)
+    at Builder.build (/home2/packetl1/nodevenv/public_html/include/10/lib/node_modules/selenium-webdriver/index.js:720:16)
+    at example (/home2/packetl1/public_html/include/app.js:4:58)
+    at Object.<anonymous> (/home2/packetl1/public_html/include/app.js:12:3)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+(node:2682488) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:2682488) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.

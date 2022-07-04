@@ -1,0 +1,44 @@
+[26-Feb-2022 15:47:59 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home2/packetl1/public_html/automation/automation.php on line 13
+[26-Feb-2022 15:47:59 UTC] PHP Warning:  file_get_contents(https://www.facebook.com/login): failed to open stream: no suitable wrapper could be found in /home2/packetl1/public_html/automation/automation.php on line 13
+[26-Feb-2022 15:48:05 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home2/packetl1/public_html/automation/automation.php on line 13
+[26-Feb-2022 15:48:05 UTC] PHP Warning:  file_get_contents(https://www.facebook.com/login): failed to open stream: no suitable wrapper could be found in /home2/packetl1/public_html/automation/automation.php on line 13
+[26-Feb-2022 15:49:17 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home2/packetl1/public_html/automation/automation.php on line 3
+[26-Feb-2022 15:49:17 UTC] PHP Warning:  file_get_contents(https://www.facebook.com/login): failed to open stream: no suitable wrapper could be found in /home2/packetl1/public_html/automation/automation.php on line 3
+[26-Feb-2022 15:49:19 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home2/packetl1/public_html/automation/automation.php on line 3
+[26-Feb-2022 15:49:19 UTC] PHP Warning:  file_get_contents(https://www.facebook.com/login): failed to open stream: no suitable wrapper could be found in /home2/packetl1/public_html/automation/automation.php on line 3
+[26-Feb-2022 15:49:38 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home2/packetl1/public_html/automation/automation.php on line 3
+[26-Feb-2022 15:49:38 UTC] PHP Warning:  file_get_contents(http://www.facebook.com/login): failed to open stream: no suitable wrapper could be found in /home2/packetl1/public_html/automation/automation.php on line 3
+[26-Feb-2022 15:50:52 UTC] PHP Warning:  fopen(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home2/packetl1/public_html/automation/automation.php on line 11
+[26-Feb-2022 15:50:52 UTC] PHP Warning:  fopen(http://www.someserver.no): failed to open stream: no suitable wrapper could be found in /home2/packetl1/public_html/automation/automation.php on line 11
+[26-Feb-2022 15:50:52 UTC] PHP Warning:  fpassthru() expects parameter 1 to be resource, bool given in /home2/packetl1/public_html/automation/automation.php on line 12
+[26-Feb-2022 15:50:52 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /home2/packetl1/public_html/automation/automation.php on line 13
+[26-Feb-2022 15:50:54 UTC] PHP Warning:  fopen(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home2/packetl1/public_html/automation/automation.php on line 11
+[26-Feb-2022 15:50:54 UTC] PHP Warning:  fopen(http://www.someserver.no): failed to open stream: no suitable wrapper could be found in /home2/packetl1/public_html/automation/automation.php on line 11
+[26-Feb-2022 15:50:54 UTC] PHP Warning:  fpassthru() expects parameter 1 to be resource, bool given in /home2/packetl1/public_html/automation/automation.php on line 12
+[26-Feb-2022 15:50:54 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /home2/packetl1/public_html/automation/automation.php on line 13
+[26-Feb-2022 15:51:38 UTC] PHP Parse error:  syntax error, unexpected '$ch' (T_VARIABLE) in /home2/packetl1/public_html/automation/automation.php on line 6
+[26-Feb-2022 15:52:03 UTC] PHP Parse error:  syntax error, unexpected '$ch' (T_VARIABLE) in /home2/packetl1/public_html/automation/automation.php on line 6
+[26-Feb-2022 15:52:04 UTC] PHP Parse error:  syntax error, unexpected '$ch' (T_VARIABLE) in /home2/packetl1/public_html/automation/automation.php on line 6
+[26-Feb-2022 15:52:05 UTC] PHP Parse error:  syntax error, unexpected '$ch' (T_VARIABLE) in /home2/packetl1/public_html/automation/automation.php on line 6
+[26-Feb-2022 15:54:29 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home2/packetl1/public_html/automation/automation.php on line 4
+[26-Feb-2022 15:54:29 UTC] PHP Warning:  file_get_contents(https://www.facebook.com/): failed to open stream: no suitable wrapper could be found in /home2/packetl1/public_html/automation/automation.php on line 4
+[26-Feb-2022 15:54:32 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home2/packetl1/public_html/automation/automation.php on line 4
+[26-Feb-2022 15:54:32 UTC] PHP Warning:  file_get_contents(https://www.facebook.com/): failed to open stream: no suitable wrapper could be found in /home2/packetl1/public_html/automation/automation.php on line 4
+[26-Feb-2022 15:54:34 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home2/packetl1/public_html/automation/automation.php on line 4
+[26-Feb-2022 15:54:34 UTC] PHP Warning:  file_get_contents(https://www.facebook.com/): failed to open stream: no suitable wrapper could be found in /home2/packetl1/public_html/automation/automation.php on line 4
+[26-Feb-2022 15:54:56 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home2/packetl1/public_html/automation/automation.php on line 4
+[26-Feb-2022 15:54:56 UTC] PHP Warning:  file_get_contents(https://www.facebook.com/): failed to open stream: no suitable wrapper could be found in /home2/packetl1/public_html/automation/automation.php on line 4
+[26-Feb-2022 15:54:57 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home2/packetl1/public_html/automation/automation.php on line 4
+[26-Feb-2022 15:54:57 UTC] PHP Warning:  file_get_contents(https://www.facebook.com/): failed to open stream: no suitable wrapper could be found in /home2/packetl1/public_html/automation/automation.php on line 4
+[26-Feb-2022 15:55:08 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home2/packetl1/public_html/automation/automation.php on line 4
+[26-Feb-2022 15:55:08 UTC] PHP Warning:  file_get_contents(https://www.facebook.com/login): failed to open stream: no suitable wrapper could be found in /home2/packetl1/public_html/automation/automation.php on line 4
+[26-Feb-2022 15:55:09 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home2/packetl1/public_html/automation/automation.php on line 4
+[26-Feb-2022 15:55:09 UTC] PHP Warning:  file_get_contents(https://www.facebook.com/login): failed to open stream: no suitable wrapper could be found in /home2/packetl1/public_html/automation/automation.php on line 4
+[26-Feb-2022 15:55:52 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home2/packetl1/public_html/automation/automation.php on line 4
+[26-Feb-2022 15:55:52 UTC] PHP Warning:  file_get_contents(https://www.packetlocket.ml): failed to open stream: no suitable wrapper could be found in /home2/packetl1/public_html/automation/automation.php on line 4
+[26-Feb-2022 15:55:54 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home2/packetl1/public_html/automation/automation.php on line 4
+[26-Feb-2022 15:55:54 UTC] PHP Warning:  file_get_contents(https://www.packetlocket.ml): failed to open stream: no suitable wrapper could be found in /home2/packetl1/public_html/automation/automation.php on line 4
+[26-Feb-2022 15:55:57 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home2/packetl1/public_html/automation/automation.php on line 4
+[26-Feb-2022 15:55:57 UTC] PHP Warning:  file_get_contents(https://www.packetlocket.ml): failed to open stream: no suitable wrapper could be found in /home2/packetl1/public_html/automation/automation.php on line 4
+[26-Feb-2022 15:57:53 UTC] PHP Parse error:  syntax error, unexpected '=' in /home2/packetl1/public_html/automation/automation.php on line 2
+[26-Feb-2022 15:57:54 UTC] PHP Parse error:  syntax error, unexpected '=' in /home2/packetl1/public_html/automation/automation.php on line 2
